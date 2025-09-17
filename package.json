@@ -55,7 +55,7 @@
         "ts-command-line-args": "~2.5.1",
         "tsx": "~4.19.2",
         "type-fest": "~4.3.3",
-        "yaml": "~2.3.4"
+        "yaml": "~2.8.1"
     },
     "devDependencies": {
         "@actions/github": "^6.0.0",
